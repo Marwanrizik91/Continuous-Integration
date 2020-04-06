@@ -1,9 +1,11 @@
 sudo: false
 
 language: node_js
-
 node_js:
-  - 12
+ - "node"
+env:
+- MY_VAR=EverythingIsAwesome
+- NODE_ENV=TEST
 
 script:
 
