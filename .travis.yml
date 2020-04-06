@@ -3,9 +3,6 @@ sudo: false
 language: node_js
 node_js:
  - "node"
-env:
-- MY_VAR=EverythingIsAwesome
-- NODE_ENV=TEST
 
 script:
 
