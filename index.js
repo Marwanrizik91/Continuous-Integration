@@ -4,7 +4,7 @@ function fizzbuzz(number) {
      if (rem3 && rem5) {
      return "Fizzbuzz"; // write your code here
    } else if(rem5 ) {
-     return "Buz"
+     return "Buzz"
    } else if (rem3) {
      return "Fizz"
    } else if(typeof number != 'number') {
