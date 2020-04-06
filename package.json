@@ -1,0 +1,22 @@
+{
+  "name": "continuous-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marwanrizik91/Continuous-Integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marwanrizik91/Continuous-Integration/issues"
+  },
+  "homepage": "https://github.com/Marwanrizik91/Continuous-Integration#readme",
+  "dependencies": {
+    "tape": "^4.13.2"
+  }
+}
